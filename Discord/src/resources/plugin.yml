@@ -1,0 +1,9 @@
+name: Discord
+version: 1.0
+main: me.KRYMZ0N.Discord.Main
+description: A simple minecraft plugin that will send a message to players with the discord invite link upon command.
+
+commands:
+  Discord:
+    aliases: [discord]
+    description: gives link to players upon command!
